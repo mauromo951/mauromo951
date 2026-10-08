@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @mauromo951
-- 👀 I’m interested in Sports, Tech, Videogames, Travels, Fitness.
-- 👨🏼‍💻 I’m currently learning SRE, DevOps, Python scripting, FastApi.
-- 💻 I’m looking to collaborate with SRE, Frontend Devs, Software engineers.
-- 📫 How to reach me (Still working on that)
-- 😎 Dallas Cowboys Fan 🤠⭐, NBA Fan 🏀, NFL Fan🏈, Lakers Fan 🏀👑, LeBron James Fan 🫅🏿⛹🏿, Pop Music Fan 🎧, Yankees Fan ⚾, Food Fan 🍔🍕🌭🌮🥩🍤🍣🦪🍵
-- 👽 Looking for something out of this planet ... 
+Hi, I’m Mauro...
+Let's talk a little about me:
+I’m interested in Sports, Tech, Videogames, Travels, new ways of Investing and of course all kinds of food.
+I’m currently learning SRE, DevOps, Python scripting, Python frameworks and AI - but I prefer to build tech by my self. 
+I’m looking to collaborate with SREs, Devops engineers and devs who are willing to share the cool stuff they know about today’s technologies.
+You can contact me in my IG @sysium_tech
+👽 Looking for something out of this planet ... 
 
-<!---
-mauromo951/mauromo951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
