@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauromo951
 - 👀 I’m interested in Sports, Tech, Videogames, Travels, Fitness.
-- 👨🏼‍💻 I’m currently learning React, DevOps, Python scripting, FastApi.
+- 👨🏼‍💻 I’m currently learning SRE, DevOps, Python scripting, FastApi.
 - 💻 I’m looking to collaborate with SRE, Frontend Devs, Software engineers.
 - 📫 How to reach me (Still working on that)
 - 😎 Dallas Cowboys Fan 🤠⭐, NBA Fan 🏀, NFL Fan🏈, Lakers Fan 🏀👑, LeBron James Fan 🫅🏿⛹🏿, Pop Music Fan 🎧, Yankees Fan ⚾, Food Fan 🍔🍕🌭🌮🥩🍤🍣🦪🍵
